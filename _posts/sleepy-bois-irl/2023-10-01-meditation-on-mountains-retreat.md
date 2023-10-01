@@ -44,7 +44,7 @@ A couple months ago, Aadesh joined the Sleepy Bois Club to lead a discussion on 
 
 ### Bouldering Meditation
 
-After some cocoa and breakfast the next morning, we walked along the creek towards the boulder field beneath White Baldy Peak. The retreat was called a bouldering meditation retreat, which I had been nervous about since I have no experience with rock climbing. However, and perhaps because I had expressed some hesitation to Aadesh prior to the retreat, we were not bouldering in the rockclimbing sense for this mediation. Instead, the activity we did can be described as scrambling in the boulder field.
+After some cocoa and breakfast the next morning, we walked along the creek towards the boulder field beneath White Baldy Peak. The retreat was called a bouldering meditation retreat, which I had been nervous about since I have no experience with rock climbing. However, and perhaps because I had expressed some hesitation to Aadesh prior to the retreat, we were not bouldering in the rock climbing sense for this mediation. Instead, the activity we did can be described as scrambling in the boulder field.
 
 {% include youtube.html id="tEg6kojgDhA" %}
 _Video above feeatures Aadesh giving us instructions for the bouldering meditation._

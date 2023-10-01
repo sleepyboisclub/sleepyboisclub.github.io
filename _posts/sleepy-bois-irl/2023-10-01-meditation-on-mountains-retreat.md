@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Meditation on Mountains Retreat 2023
-categories: extracurriculars
+categories: sleepy-boys-irl
 ---
 
 Last weekend I joined Aadesh on a backpacking and bouldering meditation retreat. He recently launched his organization, [Meditation on Mountains](medonmt.org), which is a group for nature lovers to engage mindfully in outdoor activities. 
@@ -36,7 +36,7 @@ After the group had gathered in the Little Cottonwood Canyon, we set off on the 
 
 <img src="https://drive.google.com/uc?export=view&id=1ehDdKiIfZdLVF90rK2Cb6Z3xOqh8uwsl" alt="Deep Time Meditation group picture" width="700"/>
 
-During the hike, Aadesh would tell us about the events that constitute the formation of the Earth such as the collecting of cosmic gasses; the cooling of Earth’s elements; the creation of the Moon; the arrival of water on asteroids; the development of life; changes in the Earth's atmosphere, biology, and ecosystems; great dyings; critical evolutions; and the establishment of civilization. He told us about these events until there was just a half step between the Egyptians and this present moment. 
+During the hike, Aadesh would tell us about the events that comprise the formation of the Earth such as the collecting of cosmic gasses; the cooling of Earth’s elements; the creation of the Moon; the arrival of water on asteroids; the development of life; changes in the Earth's atmosphere, biology, and ecosystems; great dyings; critical evolutions; and the establishment of civilization. He told us about these events until there was just a half step between the Egyptians and this present moment. 
 
 Sometimes it would be a few hundred meters and sometimes it would be a couple miles between updates. But regardless of the time or event that happened, this group found every update to be a great opportunity for cosmological discussion. We discussed the relationship between gravity and the cosmological constant, the concept of the Big Crunch, the formation of stars and planets, Hawking Radiation, Entropy, ATP, the nature of energy, and so on. The participants in the retreat had a variety of educational, religious, and ethnic backgrounds, but the conversation was open, light, and yet deeply engaging and connecting for all.
 
@@ -47,6 +47,7 @@ A couple months ago, Aadesh joined the Sleepy Bois Club to lead a discussion on 
 After some cocoa and breakfast the next morning, we walked along the creek towards the boulder field beneath White Baldy Peak. The retreat was called a bouldering meditation retreat, which I had been nervous about since I have no experience with rock climbing. However, and perhaps because I had expressed some hesitation to Aadesh prior to the retreat, we were not bouldering in the rockclimbing sense for this mediation. Instead, the activity we did can be described as scrambling in the boulder field.
 
 {% include youtube.html id="tEg6kojgDhA" %}
+
 
 As Aadesh explained the purpose and details of the mediation we were going to participate in, he talked about how the boulder field was formed over hundreds of thousands of years, starting with the formation of the mountains and then the erosion and other events that caused the giant boulders to break off and fall into the valley. He talked about how those boulders are giant and heavy, and if we hadn’t been heading into that boulder field today, those boulders might not have any reason to move from where they currently lay. The boulders have an aspect of stillness about them. As we engaged in this bouldering (scrambling) meditation, he said we should see if we could borrow any of that stillness from the boulders for ourselves. Even though we would be moving through the boulder field, one purpose of the meditation was to find stillness in ourselves.
 
@@ -73,6 +74,7 @@ As I looked back at the path I had chosen–and that I would now have to double 
 I continued to scramble for a bit of time, moving across several cool boulders on my way up the side of the mountain toward a patch of trees that were growing in this immense boulder field. It took me some time, and also a bit more effort, but I finally scaled the field to arrive at the mountain-side forest. I took some time to appreciate the distance and height I had traversed. My other meditation friends had spread out over the expanse of the large boulder field. Aadesh called out to each of us to know where we were and let us know that the meditation would be ending soon.
 
 <img src="https://drive.google.com/uc?export=view&id=13FAYETmV4HtkeXo5OjWbMme0724QQnRZ" alt="Small person in a boulder field" width="700"/>
+_Do you see Joe in the expanse of the boudler field?_
 
 I took a few more moments to take in the meditation, the view, and the boulder field and then started on my way down the side of the mountain. I noticed almost immediately that I was moving much more quickly down the mountain than I had moved up it. Because I was moving so quickly, and with greater ease, I was receiving far less physical input than on the way up. I no longer felt the texture of each boulder with my hands as most of my moves were made solely with my feet. I even jumped down several feet a few times to descend larger boulders. I felt like it was a lot easier and a lot more fun. 
 

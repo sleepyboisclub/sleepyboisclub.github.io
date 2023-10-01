@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Meditation on Mountains Retreat 2023
-categories: sleepy-boys-irl
+categories: sleepy-bois-irl
 ---
 
 Last weekend I joined Aadesh on a backpacking and bouldering meditation retreat. He recently launched his organization, [Meditation on Mountains](medonmt.org), which is a group for nature lovers to engage mindfully in outdoor activities. 

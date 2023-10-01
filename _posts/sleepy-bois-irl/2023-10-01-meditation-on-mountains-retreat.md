@@ -46,7 +46,8 @@ A couple months ago, Aadesh joined the Sleepy Bois Club to lead a discussion on 
 
 After some cocoa and breakfast the next morning, we walked along the creek towards the boulder field beneath White Baldy Peak. The retreat was called a bouldering meditation retreat, which I had been nervous about since I have no experience with rock climbing. However, and perhaps because I had expressed some hesitation to Aadesh prior to the retreat, we were not bouldering in the rockclimbing sense for this mediation. Instead, the activity we did can be described as scrambling in the boulder field.
 
-{% include youtube.html id="tEg6kojgDhA" %}  
+{% include youtube.html id="tEg6kojgDhA" %}
+_Video above feeatures Aadesh giving us instructions for the bouldering meditation._
 
 As Aadesh explained the purpose and details of the mediation we were going to participate in, he talked about how the boulder field was formed over hundreds of thousands of years, starting with the formation of the mountains and then the erosion and other events that caused the giant boulders to break off and fall into the valley. He talked about how those boulders are giant and heavy, and if we hadn’t been heading into that boulder field today, those boulders might not have any reason to move from where they currently lay. The boulders have an aspect of stillness about them. As we engaged in this bouldering (scrambling) meditation, he said we should see if we could borrow any of that stillness from the boulders for ourselves. Even though we would be moving through the boulder field, one purpose of the meditation was to find stillness in ourselves.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Momento Mori: Writing Your Own Eulogy"
-categories: future-meetups
+title: "Self Eulogy: A Memento Mori Practice"
+categories: meetups
 author: dustin-landon-1
 ---
 

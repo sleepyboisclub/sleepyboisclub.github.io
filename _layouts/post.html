@@ -36,6 +36,9 @@ layout: default
         {% if site.authors[page.author].youtube %}
          | <a class="post__meta" href="https://youtube.com/{{site.authors[page.author].youtube}}" target="_blank">📺 @{{site.authors[page.author].youtube}}</a>
         {% endif %}
+        {% if site.authors[page.author].specialyoutube %}
+         | <a class="post__meta" href="https://youtube.com/{{site.authors[page.author].specialyoutube}}" target="_blank">{{site.authors[page.author].specialyoutubesymbol}} @{{site.authors[page.author].linktree | "secret menu" }}</a>
+        {% endif %}
         <br><br>
       </div>
       <div class="post__meta">

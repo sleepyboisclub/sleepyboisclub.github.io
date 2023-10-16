@@ -28,13 +28,13 @@ layout: default
       <div class="post__meta">
         {{site.authors[page.author].name}}
         {% if site.authors[page.author].instagram %}
-        <br>[📷@{{site.authors[page.author].instagram}}](https://instagram.com/{{site.authors[page.author].instagram}})
+        <br><a href="https://instagram.com/{{site.authors[page.author].instagram}})">📷 @{{site.authors[page.author].instagram}}</a>
         {% endif %}
         {% if site.authors[page.author].twitter %}
-        <br>[🕊️@{{site.authors[page.author].twitter}}](https://twitter.com/{{site.authors[page.author].twitter}})
+        <br><a href="https://twitter.com/{{site.authors[page.author].twitter}}">🕊️ @{{site.authors[page.author].twitter}}</a>
         {% endif %}
         {% if site.authors[page.author].youtube %}
-        <br>[📺@{{site.authors[page.author].youtube}}](https://instagram.com/{{site.authors[page.author].youtube}}
+        <br><a href="https://youtube.com/{{site.authors[page.author].youtube}}"> 📺@{{site.authors[page.author].youtube}}</a>
         {% endif %}
 
       </div>

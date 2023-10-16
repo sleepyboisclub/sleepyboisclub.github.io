@@ -5,6 +5,8 @@ categories: meetups
 author: dustin-1
 ---
 
+<img src="https://drive.google.com/uc?export=view&id=1ZBZDmpdt1THEbaQdwkfb7vOl2Qs81O4M" alt="Memento Mori activity selfie" width="500"/>
+
 As the seasons began to change and the beautiful decay of autumn crept into the forests around us, the Sleepy Bois Club decided to gather and celebrate the onset of the spooky season the best way we knew how, by contemplating our eventual deaths. 
 
 This practice has a long and storied past most commonly known as Memento Mori (Latin for “remember that you die”). The general idea is that taking time to reflect on the ephemeral nature of life can help us remember to actually enjoy the moments we are in and motivate us to do something more with the short time we have. Through the mindful application of Memento Mori, we might find that, when compared to the finality of death, our anxieties become nearly insignificant and we are more able to live the kind of life we want to live. 

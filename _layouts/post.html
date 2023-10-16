@@ -25,6 +25,9 @@ layout: default
       <div class="post__meta">
         <time>{{ page.date | date: "%Y-%m-%d" }}</time>
       </div>
+      <div>
+        {{site.authors[page.author].name}}
+      </div>
     </header>
     <div class="post__content content">
       {{ content | toc | img_prefix }}

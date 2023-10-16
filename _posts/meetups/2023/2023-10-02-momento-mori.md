@@ -2,7 +2,7 @@
 layout: post
 title: "Self Eulogy: A Memento Mori Practice"
 categories: meetups
-author: dustin-landon-1
+author: dustin-1
 ---
 
 As the seasons began to change and the beautiful decay of autumn crept into the forests around us, the Sleepy Bois Club decided to gather and celebrate the onset of the spooky season the best way we knew how, by contemplating our eventual deaths. 

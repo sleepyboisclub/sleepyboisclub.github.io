@@ -25,9 +25,18 @@ layout: default
       <div class="post__meta">
         <time>{{ page.date | date: "%Y-%m-%d" }}</time>
       </div>
-      <div>
+      <div class="post__meta">
         {{site.authors[page.author].name}}
-        {{page.author}}
+        {% if site.authors[page.author].instagram %}
+        <br>[📷@{{site.authors[page.author].instagram}}](https://instagram.com/{{site.authors[page.author].instagram}})
+        {% endif %}
+        {% if site.authors[page.author].twitter %}
+        <br>[🕊️@{{site.authors[page.author].twitter}}](https://twitter.com/{{site.authors[page.author].twitter}})
+        {% endif %}
+        {% if site.authors[page.author].youtube %}
+        <br>[📺@{{site.authors[page.author].youtube}}](https://instagram.com/{{site.authors[page.author].youtube}}
+        {% endif %}
+
       </div>
     </header>
     <div class="post__content content">

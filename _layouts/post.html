@@ -23,9 +23,9 @@ layout: default
     <header class="post__header">
       <h1 class="post__title">{{ page.title | escape }}</h1>
       <div class="post__meta">
-        Post by: {{site.authors[page.author].name}}
+        Post by: {{ site.authors[page.author].symbol | ""}}{{site.authors[page.author].name}}
         {% if site.authors[page.author].linktree %}
-         | <a class="post__meta" href="https://linktr.ee/{{site.authors[page.author].linktree}}" target="_blank">🌳 @{{site.authors[page.author].linktree}}</a>
+         | <a class="post__meta" href="https://linktr.ee/{{site.authors[page.author].linktree}}" target="_blank">{{ site.authors[page.author].linktreesymbol | "🌳" }} @{{site.authors[page.author].linktree}}</a>
         {% endif %}
         {% if site.authors[page.author].instagram %}
          | <a class="post__meta" href="https://instagram.com/{{site.authors[page.author].instagram}}" target="_blank">📷 @{{site.authors[page.author].instagram}}</a>
@@ -34,7 +34,7 @@ layout: default
          | <a class="post__meta" href="https://twitter.com/{{site.authors[page.author].twitter}}" target="_blank">🕊️ @{{site.authors[page.author].twitter}}</a>
         {% endif %}
         {% if site.authors[page.author].youtube %}
-         | <a class="post__meta" href="https://youtube.com/{{site.authors[page.author].youtube}}" target="_blank"> 📺@{{site.authors[page.author].youtube}}</a>
+         | <a class="post__meta" href="https://youtube.com/{{site.authors[page.author].youtube}}" target="_blank">📺 @{{site.authors[page.author].youtube}}</a>
         {% endif %}
         <br><br>
       </div>

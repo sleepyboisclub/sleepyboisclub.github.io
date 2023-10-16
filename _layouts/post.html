@@ -23,20 +23,20 @@ layout: default
     <header class="post__header">
       <h1 class="post__title">{{ page.title | escape }}</h1>
       <div class="post__meta">
+        <div>
+          Post by: {{site.authors[page.author].name}}
+          {% if site.authors[page.author].instagram %}
+          <br><a href="https://instagram.com/{{site.authors[page.author].instagram}}" target="_blank">📷 @{{site.authors[page.author].instagram}}</a>
+          {% endif %}
+          {% if site.authors[page.author].twitter %}
+          <br><a href="https://twitter.com/{{site.authors[page.author].twitter}}" target="_blank">🕊️ @{{site.authors[page.author].twitter}}</a>
+          {% endif %}
+          {% if site.authors[page.author].youtube %}
+          <br><a href="https://youtube.com/{{site.authors[page.author].youtube}}" target="_blank"> 📺@{{site.authors[page.author].youtube}}</a>
+          {% endif %}
+          <br>
+        </div>
         <time>{{ page.date | date: "%Y-%m-%d" }}</time>
-      </div>
-      <div class="post__meta">
-        {{site.authors[page.author].name}}
-        {% if site.authors[page.author].instagram %}
-        <br><a href="https://instagram.com/{{site.authors[page.author].instagram}}" target="_blank">📷 @{{site.authors[page.author].instagram}}</a>
-        {% endif %}
-        {% if site.authors[page.author].twitter %}
-        <br><a href="https://twitter.com/{{site.authors[page.author].twitter}}" target="_blank">🕊️ @{{site.authors[page.author].twitter}}</a>
-        {% endif %}
-        {% if site.authors[page.author].youtube %}
-        <br><a href="https://youtube.com/{{site.authors[page.author].youtube}}" target="_blank"> 📺@{{site.authors[page.author].youtube}}</a>
-        {% endif %}
-
       </div>
     </header>
     <div class="post__content content">

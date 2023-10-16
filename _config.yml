@@ -10,11 +10,15 @@ social:
 
 # Post authors
 authors:
-  "sleepy-bois-club":
-    name: "Sleepy Bois Club Official"
+ "sleepy-bois-club-all-socials":
+    name: "SBC Social Media Accounts"
+    linktree: "sleepyboisclub"
     instragram: "sleepyboisclub"
     twitter: "sleepyboisclub"
     youtube: "sleepyboisclub"
+  "sleepy-bois-club":
+    name: "Sleepy Bois Club Official"
+    linktree: "sleepyboisclub"
   "kekoa-1":
     name: "Kekoa Riggin"
     instagram: "imokaykoa"

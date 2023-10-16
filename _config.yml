@@ -10,19 +10,16 @@ social:
 
 # Post authors
 authors:
-  - 
-    id: "sleepy-bois-club"
+  "sleepy-bois-club":
     name: "Sleepy Bois Club Official"
     instragram: "@sleepyboisclub"
     twitter: "@sleepyboisclub"
     youtube: "@sleepyboisclub"
-  -
-    id: "kekoa-1"
+  "kekoa-1":
     name: "Kekoa Riggin"
     instagram: "@imokaykoa"
     twitter: "@okaykoa"
-  -
-    id: "dustin-1"
+  "dustin-1":
     name: "Dustin Landon"
     instagram: "@SpazLandon"
     twitter: "@DustinLandon"

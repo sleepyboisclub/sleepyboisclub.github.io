@@ -2,6 +2,7 @@
 layout: post
 title: Patriotism
 categories: meetups
+author: kekoa-1
 ---
 
 {% include youtube.html id="5XC28FM18lM" %}

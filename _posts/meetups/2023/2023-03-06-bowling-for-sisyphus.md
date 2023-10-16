@@ -2,6 +2,7 @@
 layout: post
 title: Bowling for Sisyphus
 categories: meetups
+author: kekoa-1
 ---
 
 <img src="https://drive.google.com/uc?export=view&id=14OkscgAtsOAhMyYTOb3xKXuQ58b3Wa0i" alt="Sleepy Boy Bowling Drawing" width="700"/>

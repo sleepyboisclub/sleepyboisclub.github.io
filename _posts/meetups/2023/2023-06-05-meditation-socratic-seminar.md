@@ -2,6 +2,7 @@
 layout: post
 title: "Meditation: A Socratic Seminar"
 categories: meetups
+author: kekoa-1
 ---
 
 <img src="https://drive.google.com/uc?export=view&id=15TwttVyPIH_ZYAfN6AKNwZKNQFGiYl12" alt="Socratic Seminar Selfie" width="500"/>

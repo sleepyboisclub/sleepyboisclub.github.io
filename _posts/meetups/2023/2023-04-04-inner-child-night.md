@@ -2,6 +2,7 @@
 layout: post
 title: Inner Child Night
 categories: meetups
+author: kekoa-1
 ---
 
 <img src="https://drive.google.com/uc?export=view&id=17sylOrjiTdbrTXGw8YMfuvuFziUECF-9" alt="Inner Child Night Selfie" width="500"/>

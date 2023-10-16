@@ -7,6 +7,26 @@ author: sleepy bois club #  Default is your site title.
 # Your social accounts.
 social:
   github: sleepyboisclub
+
+# Post authors
+authors:
+  - 
+    id: "sleepy-bois-club"
+    name: "Sleepy Bois Club Official"
+    instragram: "@sleepyboisclub"
+    twitter: "@sleepyboisclub"
+    youtube: "@sleepyboisclub"
+  -
+    id: "kekoa-1"
+    name: "Kekoa Riggin"
+    instagram: "@imokaykoa"
+    twitter: "@okaykoa"
+  -
+    id: "dustin-1"
+    name: "Dustin Landon"
+    instagram: "@SpazLandon"
+    twitter: "@DustinLandon"
+
   
 # Theme Settings
 

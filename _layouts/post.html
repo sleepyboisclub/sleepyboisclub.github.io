@@ -23,7 +23,7 @@ layout: default
     <header class="post__header">
       <h1 class="post__title">{{ page.title | escape }}</h1>
       <div class="post__meta">
-        Post by: {{ site.authors[page.author].symbol | ""}}{{site.authors[page.author].name}}
+        Post by: {{site.authors[page.author].name}}
         {% if site.authors[page.author].linktree %}
          | <a class="post__meta" href="https://linktr.ee/{{site.authors[page.author].linktree}}" target="_blank">{{ site.authors[page.author].linktreesymbol | "🌳" }} @{{site.authors[page.author].linktree}}</a>
         {% endif %}

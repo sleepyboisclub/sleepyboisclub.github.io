@@ -22,7 +22,7 @@ layout: default
   <article class="post">
     <header class="post__header">
       <h1 class="post__title">{{ page.title | escape }}</h1>
-      <div>
+      <div class="post__meta">
         Post by: {{site.authors[page.author].name}}
         {% if site.authors[page.author].instagram %}
         <br><a class="post__meta" href="https://instagram.com/{{site.authors[page.author].instagram}}" target="_blank">📷 @{{site.authors[page.author].instagram}}</a>

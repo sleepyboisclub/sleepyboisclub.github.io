@@ -1,4 +1,4 @@
-{% assign topics = content.topics | split: ", " %}
+{% assign topics = page.topics | split: ", " %}
 
 {% topics | join: "` `" %}
 

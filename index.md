@@ -3,7 +3,7 @@ layout: page
 title: A Philosophy and Being Kind Club
 ---
 
-<img src="https://drive.google.com/uc?export=view&id=18btTzpze3pKhvoAdVpJR0Sp2JgoOfbJp" alt="Sleepy Boys Club Seal" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1FdpeXJuDvsqScAGPAO4BmtAndphnTe3p" alt="Sleepy Boys Club Seal" width="200"/>
 
 The Sleepy Bois Club is a social club and online community for individuals who seek to connect with self and other via the optimistic exploration of philosophy, the post-covid revival of sincerity in physical and digital third places, and the mindful practice of enjoying existence--all things considered.
 

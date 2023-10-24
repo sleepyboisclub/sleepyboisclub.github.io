@@ -25,7 +25,11 @@ this is a code block
   </details>
 + <details>
   <summary>APA</summary>
-  ```Einstein, Albert. "My Exampe Book". SBC Publishers. (2023).```
+    <blockquote>
+      <p>
+        Einstein, Albert. "My Exampe Book". SBC Publishers. (2023).
+      </p>
+    </blockquote>
   </details>
 + <details>
   <summary>Chicago</summary>

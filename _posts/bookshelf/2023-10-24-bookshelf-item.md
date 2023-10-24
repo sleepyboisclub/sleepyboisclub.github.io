@@ -2,7 +2,7 @@
 layout: post
 title: test bookshelf item
 categories: bookshelf
-topics: book, website, collections, testing
+topics: "book", "website", "collections", "testing"
 ---
 
 ## My Example Book
@@ -10,6 +10,12 @@ topics: book, website, collections, testing
 My Example Book is just an example of what a book might look like on the Sleepy Bois Club Digital Bookshelf, a public annotated bibliography for all content consumed by the Sleepy Bois Club.
 
 {% include topics_list.html %}
+
+`this is a code snippet`
+```
+this is a code block
+```
+> This is a code block
 
 <summary>Citations</summary>
 

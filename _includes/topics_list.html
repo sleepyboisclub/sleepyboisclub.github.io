@@ -1,6 +1,6 @@
 {% assign topics = page.topics | split: ", " %}
 {% assign compiled = "" %}
 {% for topic in topics %}
-{% compiled = compiled + " " + <span style="background-color: lightgrey">{{topic}}</span> %}
+{% compiled = compiled | push: <span style="background-color: lightgrey">{{topic}}</span> %}
 {% endfor %}
-{{compiled}}
+{{ compiled | join: " " }} 

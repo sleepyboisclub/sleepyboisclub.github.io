@@ -1,3 +1,4 @@
-{% for topic in page.topics %}
+{% assign topics = page.topics | split: ", " %}
+{% for topic in topics %}
 <span style="background-color: lightgrey"> {{topic}}</span>
 {% endfor %}

@@ -2,7 +2,7 @@
 layout: post
 title: test bookshelf item
 categories: bookshelf
-topics: book website collections testing
+topics: book, website, collections, testing
 ---
 
 ## My Example Book

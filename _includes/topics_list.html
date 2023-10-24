@@ -1,6 +1,6 @@
 {% assign topics = content.topics | split: ", " %}
 
-{% combined = topics | join: "` `" %}
+{% assign combined = topics | join: "` `" %}
 
 {% assign mystring = "Topics: `" + combined + "`" %}
 

@@ -20,8 +20,8 @@ My Example Book is just an example of what a book might look like on the Sleepy 
 + <details>
   <summary>APA</summary>
   ```Einstein, Albert. "My Exampe Book". SBC Publishers. (2023).```
-</details>
-  + <details>
+  </details>
++ <details>
   <summary>Chicago</summary>
   > Einstein, Albert. "My Exampe Book". SBC Publishers. (2023).
   </details>

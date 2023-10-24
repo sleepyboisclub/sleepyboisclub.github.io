@@ -1,7 +1,9 @@
 {% assign topics = content.topics | split: ", " %}
 
-{% assign combined = topics | join: "` `" %}
+{{ topics }}
 
-{% assign mystring = "Topics: `" | append: {{combined}} | append: "`" %}
+{% topics | join: "` `" %}
+
+{% assign mystring = "Topics: `" | append: {{topics}} | append: "`" %}
 
 {{ mystring }}

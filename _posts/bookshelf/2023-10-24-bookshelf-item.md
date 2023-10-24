@@ -14,28 +14,22 @@ My Example Book is just an example of what a book might look like on the Sleepy 
 <details>
 <summary>Citations</summary>
 
-+ <details>
-  <summary>MLA</summary>
-    <blockquote>
-      <p>
-        Einstein, Albert. "My Exampe Book". SBC Publishers. 2023.
-      </p>
-    </blockquote>
-  </details>
-+ <details>
-  <summary>APA</summary>
-    <blockquote>
-      <p>
-        Einstein, Albert. "My Exampe Book". SBC Publishers. (2023).
-      </p>
-    </blockquote>
-  </details>
-+ <details>
-  <summary>Chicago</summary>
-    <blockquote>
-      <p>
-        Einstein, Albert. "My Exampe Book". SBC Publishers. (2023).
-      </p>
-    </blockquote>
-  </details>
+<summary>MLA</summary>
+<blockquote>
+    <p>
+    Einstein, Albert. "My Exampe Book". SBC Publishers. 2023.
+    </p>
+</blockquote>
+<summary>APA</summary>
+<blockquote>
+    <p>
+    Einstein, Albert. "My Exampe Book". SBC Publishers. (2023).
+    </p>
+</blockquote>
+<summary>Chicago</summary>
+<blockquote>
+    <p>
+    Einstein, Albert. "My Exampe Book". SBC Publishers. (2023).
+    </p>
+</blockquote>
 </details>

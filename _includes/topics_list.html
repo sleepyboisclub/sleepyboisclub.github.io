@@ -1,7 +1,5 @@
 {% assign topics = content.topics | split: ", " %}
 
-{{ topics }}
-
 {% topics | join: "` `" %}
 
 {% assign mystring = "Topics: `" | append: {{topics}} | append: "`" %}

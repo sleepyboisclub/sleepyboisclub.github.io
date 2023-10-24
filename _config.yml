@@ -58,7 +58,7 @@ theme_setting:
       title: "linktree"
       url: "https://linktr.ee/sleepyboisclub"
   # Every default value in the following settings is false. You can set them globally here or separately in a single post/page/chapter.
-  # code: true # Code highlight.
+  code: true # Code highlight.
   # math: true # Mathjax
   # mermaid: true # Mermaid
   #  Locales of this theme.

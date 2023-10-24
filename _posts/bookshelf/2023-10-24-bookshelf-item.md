@@ -11,17 +11,16 @@ My Example Book is just an example of what a book might look like on the Sleepy 
 
 {% include topics_list.html %}
 
-`this is a code snippet`
-```
-this is a code block
-```
-> This is a code block
-
+<details>
 <summary>Citations</summary>
 
 + <details>
   <summary>MLA</summary>
-  `Einstein, Albert. "My Exampe Book". SBC Publishers. 2023.`
+    <blockquote>
+      <p>
+        Einstein, Albert. "My Exampe Book". SBC Publishers. 2023.
+      </p>
+    </blockquote>
   </details>
 + <details>
   <summary>APA</summary>
@@ -33,5 +32,10 @@ this is a code block
   </details>
 + <details>
   <summary>Chicago</summary>
-  > Einstein, Albert. "My Exampe Book". SBC Publishers. (2023).
+    <blockquote>
+      <p>
+        Einstein, Albert. "My Exampe Book". SBC Publishers. (2023).
+      </p>
+    </blockquote>
   </details>
+</details>

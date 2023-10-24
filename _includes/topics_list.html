@@ -1,7 +1,7 @@
 {% assign topics = content.topics | split: ", " %}
-{% assign compiled = "" | split: "" %}
-{% assign compiled = topics %}
-{% for topic in topics %}
-{% compiled = compiled | push: <span style="background-color: lightgrey">{{topic}}</span> %}
-{% endfor %}
-{{ compiled | join: " " }} 
+
+{% combined = topics | join: "` `"" %}
+
+{% assign mystring = "Topics: `" + combined + "`" %}
+
+{{ mystring }}

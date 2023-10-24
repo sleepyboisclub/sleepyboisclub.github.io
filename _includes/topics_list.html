@@ -1,5 +1,5 @@
 {% assign topics = content.topics | split: ", " %}
-{% assign compiled = "Topics: " %}
+{% assign compiled = "" | split: "" %}
 {% for topic in topics %}
 {% compiled = compiled | push: <span style="background-color: lightgrey">{{topic}}</span> %}
 {% endfor %}

@@ -2,6 +2,6 @@
 
 {% assign combined = topics | join: "` `" %}
 
-{% assign mystring = "Topics: `" + combined + "`" %}
+{% assign mystring = "Topics: `" | append: {{combined}} | append: "`" %}
 
 {{ mystring }}

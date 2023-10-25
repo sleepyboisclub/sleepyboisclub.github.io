@@ -30,6 +30,13 @@ authors:
     name: "Dustin Landon"
     instagram: "SpazLandon"
     twitter: "DustinLandon"
+
+defaults:
+  -
+    scope:
+      path: "_posts/meetups/:year"
+    values:
+      permalink: /meetups/:year/:month/:day/:slug:output_ext
   
 # Theme Settings
 

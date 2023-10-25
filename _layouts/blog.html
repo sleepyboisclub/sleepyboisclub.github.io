@@ -18,7 +18,7 @@ layout: default
   </nav>
 	{%- endif -%}
   <div class="post__list archive__list">
-    {%- assign years = pagination.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+    {%- assign years = pagination.posts | group_by_exp: "post", "post.date" | date: '%Y'" %}
     {%- for year in years %}
       <h3 class="post__list_title">{{ year.name }}</h3>
       {%- assign posts = year.items %}
@@ -48,7 +48,7 @@ layout: default
   </ul>
 
   <!-- Pagination links -->
-  <div class="pagination">
+  <!-- <div class="pagination">
   {% if paginator.previous_page %}
     <a href="{{ paginator.previous_page_path }}" class="previous">
       Previous
@@ -64,7 +64,7 @@ layout: default
   {% else %}
     <span class="next ">Next</span>
   {% endif %}
-  </div>
+  </div> -->
   
   {% if paginator.total_pages > 1 %}
   <div class="pagination">
@@ -77,8 +77,8 @@ layout: default
     {% for page in (1..paginator.total_pages) %}
       {% if page == paginator.page %}
         <em>{{ page }}</em>
-      {% elsif page == 1 %}
-        <a href="/">{{ page }}</a>
+      <!-- {% elsif page == 1 %}
+        <a href="/">{{ page }}</a> -->
       {% else %}
         <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
       {% endif %}

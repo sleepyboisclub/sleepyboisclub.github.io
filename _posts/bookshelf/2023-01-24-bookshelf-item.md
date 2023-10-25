@@ -10,14 +10,6 @@ book-publisher: "SBC Publishers"
 book-publication-year: 2023
 ---
 
-**Description:**
-
 _We don't know how to test websites properly, so we are testing it live. Sorry_ 🙃
 
 My Example Book is just an example of what a book might look like on the Sleepy Bois Club Digital Bookshelf, a public annotated bibliography for all content consumed by the Sleepy Bois Club.
-
-**Topics:** 
-
-{% include topics_list.html %}
-
-{% include bookshelf_citation.html %}

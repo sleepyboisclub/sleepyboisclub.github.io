@@ -19,13 +19,9 @@
   <article class="post">
     <header class="post__header">
       <h1 class="post__title">{{ page.title | escape }}</h1>
-      <div>
-        <time><b>Date Added:</b> <code>{{ page.date | date: "%Y-%m-%d" }}</code></time>
-        <b>Media Type:</b> <code>{{page.media-type}}</code>
-      </div>
     </header>
     <div class="post__content content">
-      {{ content | toc | img_prefix }}
+        {% include post/bookshelf_item_content.html %}
     </div>
   </article>
 </main>

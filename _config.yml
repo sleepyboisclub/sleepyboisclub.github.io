@@ -34,10 +34,10 @@ authors:
 defaults:
   -
     scope:
-      path: "_posts/meetups/*"
+      path: "_posts/*"
     values:
-      permalink: /meetups/:year/:month/:day/:slug:output_ext
-  
+      permalink: /categories/:year/:slug:output_ext
+
 # Theme Settings
 
 remote_theme: erlzhang/jekyll-theme-persephone

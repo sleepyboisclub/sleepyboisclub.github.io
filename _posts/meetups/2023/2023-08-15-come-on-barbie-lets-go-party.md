@@ -2,7 +2,7 @@
 layout: post
 post-type: blog
 title: Come on, Barbie, Let's Go Party
-categories: meetups
+categories: croaks
 author: kekoa-1
 ---
 

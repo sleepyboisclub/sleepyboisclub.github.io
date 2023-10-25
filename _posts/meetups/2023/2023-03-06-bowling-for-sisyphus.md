@@ -2,7 +2,7 @@
 layout: post
 post-type: blog
 title: Bowling for Sisyphus
-categories: meetups
+categories: croaks
 author: kekoa-1
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 post-type: blog
 title: "Self Eulogy: A Memento Mori Practice"
-categories: meetups
+categories: croaks
 author: dustin-1
 ---
 

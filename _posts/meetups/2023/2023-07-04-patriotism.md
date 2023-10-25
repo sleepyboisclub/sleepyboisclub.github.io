@@ -2,7 +2,7 @@
 layout: post
 post-type: blog
 title: Patriotism
-categories: meetups
+categories: croaks
 author: kekoa-1
 ---
 

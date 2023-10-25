@@ -2,7 +2,7 @@
 layout: post
 post-type: blog
 title: "Meditation: A Socratic Seminar"
-categories: meetups
+categories: croaks
 author: kekoa-1
 ---
 

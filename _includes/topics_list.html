@@ -1,7 +1,9 @@
 {% assign topics = page.topics | split: ", " %}
 
-{% assign combined = {{ topics }} | join: "` `" %}
+{{ topics }}
+
+<!-- {% assign combined = {{ topics }} | join: "` `" %}
 
 {% assign mystring = "Topics: `" | append: {{ combined }} | append: "`" %}
 
-{{ mystring }}
+{{ mystring }} -->

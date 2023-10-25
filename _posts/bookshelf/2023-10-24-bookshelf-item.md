@@ -10,7 +10,7 @@ My Example Book is just an example of what a book might look like on the Sleepy 
 {% include topics_list.html %}
 
 <details>
-<summary><h2>Citations</h2></summary>
+<summary>Citations</summary>
 
 <summary>MLA</summary>
 <blockquote>

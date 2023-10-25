@@ -18,7 +18,7 @@ layout: default
   </nav>
 	{%- endif -%}
   <div class="post__list archive__list">
-    {%- assign years = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+    {%- assign years = pagination.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
     {%- for year in years %}
       <h3 class="post__list_title">{{ year.name }}</h3>
       {%- assign posts = year.items %}
@@ -36,7 +36,7 @@ layout: default
   </div>
 
   <!-- This loops through the paginated posts -->
-  {% for post in paginator.posts %}
+  <!-- {% for post in paginator.posts %}
   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
   <p class="author">
     <span class="date">{{ post.date }}</span>
@@ -44,7 +44,7 @@ layout: default
   <div class="content">
     {{ post.content }}
   </div>
-  {% endfor %}
+  {% endfor %} -->
 
   <!-- Pagination links -->
   <div class="pagination">

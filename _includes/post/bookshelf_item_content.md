@@ -1,4 +1,4 @@
-**Author**: {{page.media-author}}
+**Author**: {{page.book-author}}
 
 **Date Added:** 
 

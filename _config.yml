@@ -38,6 +38,9 @@ defaults:
     values:
       permalink: /:categories/:year/:slug:output_ext
 
+plugins:
+  - jekyll-paginate
+
 
 # Theme Settings
 

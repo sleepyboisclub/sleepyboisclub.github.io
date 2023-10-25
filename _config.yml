@@ -34,7 +34,7 @@ authors:
 defaults:
   -
     scope:
-      path: "_posts/meetups/"
+      path: "_posts/meetups/*"
     values:
       permalink: /meetups/:year/:month/:day/:slug:output_ext
   

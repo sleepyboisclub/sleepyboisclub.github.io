@@ -36,7 +36,7 @@ defaults:
     scope:
       path: "_posts/*"
     values:
-      permalink: /:relative_path/:slug:output_ext
+      permalink: /:categories/:slug:output_ext
 
 
 # Theme Settings

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: bookshelf
 post-type: bookshelf-item
 title: My Example Book
 topics: website, collections, testing

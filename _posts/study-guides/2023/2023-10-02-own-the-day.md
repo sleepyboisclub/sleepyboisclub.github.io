@@ -1,6 +1,7 @@
 ---
 layout: post
 post-type: blog
+categories: study-guides
 title: "Own the Day: A Book Club Discussion"
 author: sleepy-bois-club
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 post-type: blog
-permalink: /{{page.categories | split: " " | first }}/:year/:month/:day/:title:output_ext
+permalink: /{{page.categories | first }}/:year/:month/:day/:title:output_ext
 title: "Own the Day: A Book Club Discussion"
 categories: meetups future-meetups
 author: sleepy-bois-club

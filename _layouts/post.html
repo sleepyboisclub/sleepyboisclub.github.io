@@ -1,56 +1,10 @@
 ---
 layout: default
 ---
-{%- include header.html -%}
-<main class="post__wrapper">
-  {%- include header_nav.html -%}
-  <div class="post__top_navs clearfix">
-    <nav class="post__archive_path">
-      {%- assign blog_page_path = site.theme_setting.blog_page | default: "index.md" -%}
-      {%- assign blog_page = site.pages | where: "path", blog_page_path | first -%}
-      <a href="{{ blog_page.url | relative_url }}" id="archiveBtn">
-        <div class="post__archive_icon">
-          <svg width="40" height="40">
-            <circle class="circle-progress" r="18" cy="20" cx="20"  stroke-linejoin="round" stroke-linecap="round" />
-          </svg>
-          <span class="post__archive_icon"></span>
-        </div>
-        {{ site.theme_setting.lang.microblog_title | default: site.title }}
-      </a>
-    </nav>
-  </div>
-  <article class="post">
-    <header class="post__header">
-      <h1 class="post__title">{{ page.title | escape }}</h1>
-      <div class="post__meta">
-        Post by: {{site.authors[page.author].name}}
-        {% if site.authors[page.author].linktree %}
-         | <a class="post__meta" href="https://linktr.ee/{{site.authors[page.author].linktree}}" target="_blank">{{ site.authors[page.author].linktreesymbol | "🌳" }}@{{site.authors[page.author].linktree}}</a>
-        {% endif %}
-        {% if site.authors[page.author].instagram %}
-         | <a class="post__meta" href="https://instagram.com/{{site.authors[page.author].instagram}}" target="_blank">📷@{{site.authors[page.author].instagram}}</a>
-        {% endif %}
-        {% if site.authors[page.author].twitter %}
-         | <a class="post__meta" href="https://twitter.com/{{site.authors[page.author].twitter}}" target="_blank">🕊️@{{site.authors[page.author].twitter}}</a>
-        {% endif %}
-        {% if site.authors[page.author].youtube %}
-         | <a class="post__meta" href="https://youtube.com/{{site.authors[page.author].youtube}}" target="_blank">📺@{{site.authors[page.author].youtube}}</a>
-        {% endif %}
-        {% if site.authors[page.author].specialyoutube %}
-         | <a class="post__meta" href="https://youtube.com/{{site.authors[page.author].specialyoutube}}" target="_blank">{{site.authors[page.author].specialyoutubesymbol}}@{{site.authors[page.author].linktree | "secret menu" }}</a>
-        {% endif %}
-        <br><br>
-      </div>
-      <div class="post__meta">
-        <time>{{ page.date | date: "%Y-%m-%d" }}</time>
-      </div>
-    </header>
-    <div class="post__content content">
-      {{ content | toc | img_prefix }}
-    </div>
-  </article>
-</main>
-{%- if site.theme_setting.code or page.code -%}
-  <script>hljs.initHighlightingOnLoad();</script>
-{%- endif -%}
-{%- include footer.html -%}
+{% if page.post-type == "blog" %}
+{% include post/blog.html %}
+{% endif %}
+{% if page.post-type == "bookshelf-item" %}
+{% include post/bookshelf_item.html %}
+{% endif %}
+

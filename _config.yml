@@ -54,9 +54,7 @@ theme_setting:
   # The nav links on the top right of home/page/post/blog layout. You can set a local page(by setting a layout's path) or and external link ( both title and url are required) here.
   nav_pages:
     - 'pages/archive.md'
-    - 
-      title: "nav"
-      url: "pages/navigation.md"
+    - "pages/navigation.md"
     -
       title: "linktree"
       url: "https://linktr.ee/sleepyboisclub"

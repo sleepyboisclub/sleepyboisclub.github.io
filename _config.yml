@@ -40,6 +40,10 @@ defaults:
 
 plugins:
   - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+# paginate_path: "/page:num/"
 
 
 # Theme Settings

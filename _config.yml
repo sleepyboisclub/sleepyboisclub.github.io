@@ -43,7 +43,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-# paginate_path: "/page:num/"
+paginate_path: "/blog/page:num/"
 
 
 # Theme Settings

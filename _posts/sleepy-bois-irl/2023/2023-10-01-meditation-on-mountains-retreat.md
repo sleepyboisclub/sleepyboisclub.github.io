@@ -1,5 +1,6 @@
 ---
 layout: post
+post-type: blog
 title: Meditation on Mountains Retreat 2023
 categories: sleepy-bois-irl
 author: kekoa-1

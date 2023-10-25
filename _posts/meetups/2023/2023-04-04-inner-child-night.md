@@ -1,5 +1,6 @@
 ---
 layout: post
+post-type: blog
 title: Inner Child Night
 categories: meetups
 author: kekoa-1

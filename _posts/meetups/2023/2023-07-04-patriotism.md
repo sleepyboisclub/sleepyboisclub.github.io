@@ -1,5 +1,6 @@
 ---
 layout: post
+post-type: blog
 title: Patriotism
 categories: meetups
 author: kekoa-1

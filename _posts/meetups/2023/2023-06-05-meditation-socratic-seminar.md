@@ -1,5 +1,6 @@
 ---
 layout: post
+post-type: blog
 title: "Meditation: A Socratic Seminar"
 categories: meetups
 author: kekoa-1

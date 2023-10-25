@@ -1,5 +1,6 @@
 ---
 layout: post
+post-type: blog
 title: "Self Eulogy: A Memento Mori Practice"
 categories: meetups
 author: dustin-1

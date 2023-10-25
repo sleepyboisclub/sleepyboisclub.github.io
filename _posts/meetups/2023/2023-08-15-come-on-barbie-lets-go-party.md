@@ -1,5 +1,6 @@
 ---
 layout: post
+post-type: blog
 title: Come on, Barbie, Let's Go Party
 categories: meetups
 author: kekoa-1

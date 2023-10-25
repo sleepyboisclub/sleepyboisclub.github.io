@@ -1,5 +1,6 @@
 ---
 layout: post
+post-type: blog
 title: Bowling for Sisyphus
 categories: meetups
 author: kekoa-1

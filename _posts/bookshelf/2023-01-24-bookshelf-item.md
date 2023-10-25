@@ -3,7 +3,7 @@ layout: post
 post-type: bookshelf-item
 title: My Example Book
 author: sleepy-bois-club-all-socials"
-topics: book, website, collections, testing
+topics: website, collections, testing
 media-type: book
 book-author: "Einstein, Albert"
 book-publisher: "SBC Publishers"

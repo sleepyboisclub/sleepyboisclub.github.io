@@ -19,11 +19,9 @@
   <article class="post">
     <header class="post__header">
       <h1 class="post__title">{{ page.title | escape }}</h1>
-      <div class="post__meta">
-        <time>**Date Added:** {{ page.date | date: "%Y-%m-%d" }}</time>
-      </div>
-      <div class="post__meta">
-        **Media Type:** `{{page.media-type}}`
+      <div>
+        <time><b>Date Added:</b> <code>{{ page.date | date: "%Y-%m-%d" }}</code></time>
+        <b>Media Type:</b> <code>{{page.media-type}}</code>
       </div>
     </header>
     <div class="post__content content">

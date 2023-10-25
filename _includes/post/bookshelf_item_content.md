@@ -2,7 +2,7 @@
 
 **Date Added:** 
 
-\`{{ page.date | date: "%Y-%m-%d" }}\`
+`{{ page.date | date: "%Y-%m-%d" }}`
 
 **Description:**
 
@@ -14,6 +14,6 @@
 
 **Media Type:** 
 
-\`{{page.media-type}}\`
+`{{page.media-type}}`
 
 {% include bookshelf_citation.html %}

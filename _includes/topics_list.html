@@ -1,11 +1,16 @@
+{% assign complete=0 %}
+Complete Before: {{ complete }}
+{% for topic in page.topics %}
+ Topic: {{topic}}
+ {% complete=complete | plus:'1'  %}
+{% endfor %}
+Complete After: {{ complete }}
+
 {% assign topics = page.topics | split: ", " %}
 
 {% assign mystring = "Topics: " %}
 
 {% for topic in topics %}
-{% mystring | append: "`" %}
-{% mystring | append: topic %}
-{% mystring | append: "`" %}
+{{ topic }}
 {% endfor %}
 
-{{ mystring }}

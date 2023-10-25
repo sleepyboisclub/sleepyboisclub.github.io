@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: SBC Charter
 ---
 
 This page is under construction :/

@@ -21,7 +21,8 @@
       <h1 class="post__title">{{ page.title | escape }}</h1>
     </header>
     <div class="post__content content">
-        {% include post/bookshelf_item_content.md %}
+        {% capture my_include %}{% post/bookshelf_item_content.md %}{% endcapture %}
+        {{ my_include | markdownify }}
     </div>
   </article>
 </main>

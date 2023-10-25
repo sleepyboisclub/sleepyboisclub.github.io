@@ -1,5 +1,6 @@
 ---
 layout: post
+post-type: blog
 title: "Own the Day: A Book Club Discussion"
 categories: future-meetups
 author: sleepy-bois-club

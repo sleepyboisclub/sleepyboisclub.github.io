@@ -31,12 +31,12 @@ authors:
     instagram: "SpazLandon"
     twitter: "DustinLandon"
 
-# defaults:
-#   -
-#     scope:
-#       path: "_posts/*"
-#     values:
-#       permalink: /:categories/:year/:slug:output_ext
+defaults:
+  -
+    scope:
+      path: "_posts/*"
+    values:
+      permalink: /:path/:year/:slug:output_ext
 
 
 # Theme Settings

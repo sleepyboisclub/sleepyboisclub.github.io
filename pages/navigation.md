@@ -3,18 +3,18 @@ layout: page
 title: Pages
 ---
 
-## [Home](index.md)
+## [Home](../index.md)
 
 The SBC homepage.
 
-## [About](/pages/about.md)
+## [About](/about.md)
 
 Learn about the SBC, officers, and contact.
 
-## [Archive](/pages/archive.md)
+## [Archive](/archive.md)
 
 The SBC feed. Read about past events, sleepy boi activity, club updates, and more.
 
-## [Charter](/pages/charter.md)
+## [Charter](/charter.md)
 
 The latest version of the living charter.

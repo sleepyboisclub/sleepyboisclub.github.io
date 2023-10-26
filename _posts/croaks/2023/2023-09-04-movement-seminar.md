@@ -40,7 +40,7 @@ Apart from these weekly foundational movements, Dan has a short list of importan
 You may find that the occasional yoga flow is the perfect way to fit in all of these exercises. 😊
 
 
-{% assign mysgrul = "study-guides/2023-08-06-movement-seminar" %}
+{% assign mysgurl = "study-guides/2023-08-06-movement-seminar" %}
 
 {% assign sgpost = site.posts | where: "url", mysgurl %}
 

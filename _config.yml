@@ -47,8 +47,9 @@ plugins:
 paginate_path: "/blog/page:num/"
 paginate: 2
 
-# Add books to archive layout
-pages: books
+
+include:
+  - _books
 
 
 # Theme Settings

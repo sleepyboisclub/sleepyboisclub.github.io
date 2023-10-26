@@ -41,7 +41,7 @@ layout: default
   {{category}}
   {% for post in site.categories[category] %}
   {{post.title}}
-  {% endfor}
+  {% endfor %} 
   {% for post in paginator.posts  %}
   {{post.category}}
   <li class="post__list_item" data-category="{{ post.categories | join: ';' }}" {% if post.img %}data-img="{{ post.img | img_url_prefix }}"{% endif %}>

@@ -37,8 +37,13 @@ layout: default
 
   <!-- This loops through the paginated posts -->
   <ul>
-  {% for post in paginator.posts %}
-  {{post}}
+  {% assign category = page.url | remove:'/' %}
+  {{category}}
+  {% for post in site.categories[category] %}
+  {{post.title}}
+  {% endfor}
+  {% for post in paginator.posts  %}
+  {{post.category}}
   <li class="post__list_item" data-category="{{ post.categories | join: ';' }}" {% if post.img %}data-img="{{ post.img | img_url_prefix }}"{% endif %}>
     <a href="{{ post.url | relative_url }}">
       <span class="archive__time">{{ post.date | date: "%Y-%m-%d" }}</span>

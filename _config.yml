@@ -42,9 +42,15 @@ plugins:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-paginate-category
 
 paginate_path: "/blog/page:num/"
 paginate: 25
+
+# gems: [jekyll-paginate, jekyll-paginate-category]
+
+category_dir: "categories"
+category_layout: "index.html"
 
 
 # Theme Settings

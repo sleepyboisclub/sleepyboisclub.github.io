@@ -28,7 +28,7 @@ layout: default
           <a href="{{ post.url | relative_url }}">
             <span class="archive__time">{{ post.date | date: "%Y-%m-%d" }}</span>
             <span class="archive__title">{{ post.title }}</span>
-            <span class="archive__title">{{ post.categories}}{% if post.categories == "study-guides" %}{{ markdownify "`sg`" }} {% endif %}</span>
+            <span class="archive__title">{{ post.categories}}{% if post.categories == "study-guides" %}{{ "`sg`" | markdownify }} {% endif %}</span>
           </a>
         </li>
         {%- endfor %}

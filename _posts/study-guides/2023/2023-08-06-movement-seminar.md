@@ -2,7 +2,7 @@
 layout: post
 post-type: blog
 categories: study-guides
-title: Daily Movement
+title: Movement Seminar (Study Guide)
 author: sleepy-boys-club
 ---
 

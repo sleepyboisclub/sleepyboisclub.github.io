@@ -2,7 +2,7 @@
 layout: post
 post-type: blog
 categories: study-guides
-title: "Memento Mori"
+title: "Self Eulogy: A Memento Mori Practice (Study Guide)"
 author: sleepy-bois-club
 ---
 

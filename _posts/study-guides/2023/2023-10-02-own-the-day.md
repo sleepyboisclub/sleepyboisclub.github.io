@@ -2,7 +2,7 @@
 layout: post
 post-type: blog
 categories: study-guides
-title: "Morning Routine"
+title: "Own The Day: A Bookclub Discussion (Study Guide)"
 author: sleepy-bois-club
 ---
 

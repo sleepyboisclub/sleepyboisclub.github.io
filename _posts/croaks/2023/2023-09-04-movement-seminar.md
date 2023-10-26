@@ -44,4 +44,4 @@ You may find that the occasional yoga flow is the perfect way to fit in all of t
 
 {% assign sgpost = site.posts | where: "url", mysgurl %}
 
-_View the study guide for this activity here:_ [{{sgpost.title}}]({% post_url {{mysgurl}} %})
+_View the study guide for this activity here:_ [{{sgpost.title}}]({% post_url study-guides/2023-08-06-movement-seminar %})

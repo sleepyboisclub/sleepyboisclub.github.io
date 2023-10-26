@@ -1,8 +1,8 @@
 ---
 layout: post
 post-type: blog
-title: Movement Seminar
 categories: study-guides
+title: Daily Movement
 author: sleepy-boys-club
 ---
 

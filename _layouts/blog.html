@@ -36,11 +36,10 @@ layout: default
   </div>
 
   {{page.url}}
-  {{page.url.params.categories}}
   {% assign category = page.url | remove:'/' %}
   {{category}}
-  {% for post in site.categories %}
-  {{post}}
+  {% for c in site.categories %}
+  {{c}}
   {% endfor %} 
 
   <!-- This loops through the paginated posts -->

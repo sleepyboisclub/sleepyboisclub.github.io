@@ -19,6 +19,8 @@ layout: default
 			<ul>
       {%- assign pages = site[page.pages] | default: site.posts -%}
       {{page.pages}}
+      {{site.[page.pages]}}
+      test
 			{%- for page in pages -%}
 				<li class="archive__item">
 					<a href="{{ page.url | relative_url }}" class="archive__link clearfix">

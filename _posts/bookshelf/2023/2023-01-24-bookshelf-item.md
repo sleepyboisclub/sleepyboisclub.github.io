@@ -2,6 +2,7 @@
 layout: post
 categories: bookshelf
 post-type: bookshelf-item
+hidden: true
 title: My Example Book
 topics: website, collections, testing
 media-type: book

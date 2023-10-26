@@ -36,6 +36,7 @@ layout: default
   </div>
 
   {{page.url}}
+  {{page.url.params}}
   {% assign category = page.url | remove:'/' %}
   {{category}}
   {% for post in site.categories[category] %}

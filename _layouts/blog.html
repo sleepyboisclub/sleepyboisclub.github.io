@@ -27,9 +27,9 @@ layout: default
         <li class="post__list_item" data-category="{{ post.categories | join: ';' }}" {% if post.img %}data-img="{{ post.img | img_url_prefix }}"{% endif %}>
           <a href="{{ post.url | relative_url }}">
             <span class="archive__time">{{ post.date | date: "%Y-%m-%d" }}</span>
-            <span><code>{{post.categories}}</code></span>
             <span class="archive__title">{{ post.title }}</span>
           </a>
+          <code>{{post.categories}}</code>
         </li>
         {%- endfor %}
       </ul>

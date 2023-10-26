@@ -29,8 +29,9 @@ layout: default
             <span class="archive__time">{{ post.date | date: "%Y-%m-%d" }}</span>
             <span class="archive__title">{{ post.title }}</span>
             <span class="archive__title">
-              {{ post.categories}}
-              {%- if post.categories == "study-guides" %}
+              {{ post.categories }}
+              {% assign temp= post.categories | inspect }
+              {%- if temp == "study-guides" %}
               {{ "`sg`" | markdownify }}
               {% endif %}
             </span>

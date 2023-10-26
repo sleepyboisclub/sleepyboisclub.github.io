@@ -22,4 +22,4 @@ In the end, the sleepy bois avoided the cold hand of death for one day more,taki
 
 {% assign sgpost = site.posts | where: "url", mysgurl %}
 
-_View the study guide for this activity here:_ [{{sgpost.title}}]({% post_url {{mysgurl}} %})
+_View the study guide for this activity here:_ [{{sgpost.title}}]({% post_url study-guides/2023-09-03-memento-mori %})

@@ -1,5 +1,4 @@
 ---
-layout: post
 post-type: blog
 categories: study-guides
 title: "Memento Mori"

@@ -18,20 +18,4 @@ The process of introspection was difficult at times, requiring us to accept both
 
 In the end, the sleepy bois avoided the cold hand of death for one day more,taking time to plan how better to use the fleeting time given to us. For me this includes drinking too much hot cocoa while talking about death with some really cool people.     
 
-## Suggested Reading
-
-{% include youtube.html id="-A7VrTxuZIE" %}
-
-(Video) [Reasons to Remember Death](https://www.youtube.com/watch?v=-A7VrTxuZIE ), The School of life
-
-## Additional Reading
-
-(Article) ["How could writing your own Eulogy help you live the life you want right now?"](https://attunedpsychology.com/writing-eulogy-help-live-life-want-right-now/), Attuned Psychology
-
-(Video) [Momento Mori](https://www.youtube.com/watch?v=PexEwJnOz3s), Ryan Holiday via TEDx Talks
-
-(Article) [Momento Mori](https://www.britannica.com/topic/memento-mori), Britannica
-
-(Article) [Momento Mori](https://en.wikipedia.org/wiki/Memento_mori), Wikipedia
-
-(Playlist) [The Sleepy Boys Club Self Eulogy Playlist](https://open.spotify.com/playlist/6RriRvmdc19Pbmm9uvfzJX?si=3fe447977f2b4b11), Spotify
+_View the study guide for this activity here:_ {% post_url _posts/study-guides/2023-09-03-memento-mori %}

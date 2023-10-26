@@ -12,13 +12,13 @@ On November 6th, the Sleepy Boys Club will meet for a group discussion about hea
 
 Our discussion will focus primarily on the first chapter of the book, which outlines the optimal morning routine. However, the discussion will be open, allowing participants to talk about their experience with any of the topics covered in the book. We hope to hear thoughts, experiences, and opinions about the successes and struggles with practices from the book as well as those not covered in the book that contribute to having the perfect day.
 
-## Suggested Study Materials
+## Suggested Study Material
 
 {% include youtube.html id="NzS2Nv2bYs0" %}
 
 (Video) [Own The Day Life: Chapter 1 - Hydrate, Get Lit, And Move It](https://www.youtube.com/watch?v=NzS2Nv2bYs0), Aubrey Marcus YouTube channel
 
-## Additional Study Materials
+## Additional Study Material
 
 (YouTube Playlist) [Own the Day Video Series](https://www.youtube.com/watch?v=NzS2Nv2bYs0&list=PL8-lJ-g0Bdtqft5Bx2Wfm-XMT76t_kjkk), Aubrey Marcus YouTube channel
 

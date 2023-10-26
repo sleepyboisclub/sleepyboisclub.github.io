@@ -1,7 +1,7 @@
 ---
 layout: post
 post-type: blog
-title: Movement
+title: Movement Seminar
 categories: croaks
 author: kekoa-1
 ---
@@ -39,20 +39,4 @@ Apart from these weekly foundational movements, Dan has a short list of importan
 
 You may find that the occasional yoga flow is the perfect way to fit in all of these exercises. 😊
 
-## Suggested Reference Materials
-
-(Article) [The Five Daily Movements](https://www.sixsenses.com/en/at-home-with-six-senses-stories/friends-of-six-senses-with-aaron-alexander), Aaron Alexander via Six Senses
-
-## Additional Reference Material
-
-(Podcast) [Katy Bowman: Expanding your Movement and Diet and Making Movement Meaningful Beyond Fitness](https://open.spotify.com/episode/2m2NSpwAfOAqghfD079w3Q?si=qJI4sufhRpWb--1G5eazuQ), The Ready State Podcast via Spotify
-
-(Article) [Dynamic at Home: Sitting Well](https://www.nutritiousmovement.com/dynamic-at-home-sitting-well/), Nutritious Movement
-
-(Book) [Unplugged: Evolve from Technology to Upgrade Your Fitness, Performance & Consciousness](https://www.amazon.com/dp/1628602619?ref_=cm_sw_r_mwn_dp_P2C2813K86670QDDQJJF), Brian Mackenzie
-
-(Book) [Move Your DNA: Restore Your Health Through Natural Movement](https://a.co/d/aLIJ0cL), Katy Bowman
-
-(Book) [The Oxygen Advantage: Simple, Scientifically Proven Breathing Techniques to Help You Become Healthier, Slimmer, Faster, and Fitter](https://a.co/d/94S32g3), Patrick McKeown 
-
-(Book) [Breath: The New Science of a Lost Art](https://www.amazon.com/Breath-New-Science-Lost-Art/dp/0735213615), James Nestor
+_View the study guide for this activity here:_ {% post_url _posts/study-guides/2023-08-06-movement-seminar %}

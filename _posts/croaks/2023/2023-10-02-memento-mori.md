@@ -18,7 +18,7 @@ The process of introspection was difficult at times, requiring us to accept both
 
 In the end, the sleepy bois avoided the cold hand of death for one day more,taking time to plan how better to use the fleeting time given to us. For me this includes drinking too much hot cocoa while talking about death with some really cool people.     
 
-{% assign mysgrul = "study-guides/2023-09-03-memento-mori" %}
+{% assign mysgurl = "study-guides/2023-09-03-memento-mori" %}
 
 {% assign sgpost = site.posts | where: "url", mysgurl %}
 

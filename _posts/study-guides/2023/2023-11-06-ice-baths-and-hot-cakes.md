@@ -22,6 +22,8 @@ Given that some may be averse to doing a winter ice bath in a mountain stream, w
 
 (Article) [The Science & Use of Cold Exposure for Health & Performance](https://www.hubermanlab.com/newsletter/the-science-and-use-of-cold-exposure-for-health-and-performance), Huberman Lab
 
+(Video) [i’ve become an ice bath idiot. here’s how it’s going.](https://www.youtube.com/watch?v=09l-juHOyes), Holly Jane YouTube Channel
+
 (Video) [Can Cold Showers Actually Change Your Life?](https://www.youtube.com/watch?v=HsonXuJs8-s), SciShow YouTube Channel
 
 ## Deep Dive

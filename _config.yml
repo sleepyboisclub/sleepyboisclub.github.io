@@ -1,5 +1,5 @@
-title: sleepy bois club
-description: a philosophy and being kind club
+title: Sleepy Bois Club
+description: A philosophy and being kind club
 # email: your-email@address.com
 
 author: sleepy bois club #  Default is your site title.
@@ -7,6 +7,8 @@ author: sleepy bois club #  Default is your site title.
 # Your social accounts.
 social:
   github: sleepyboisclub
+  twitter: sleepyboisclub
+  instagram: sleepyboisclub
 
 # Post authors
 authors:

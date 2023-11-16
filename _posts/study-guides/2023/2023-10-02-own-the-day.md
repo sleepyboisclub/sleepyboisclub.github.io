@@ -2,7 +2,7 @@
 layout: post
 post-type: blog
 categories: study-guides
-title: "Own The Day: A Bookclub Discussion (Study Guide)"
+title: "Own the Day: A Bookclub Discussion (Study Guide)"
 author: sleepy-bois-club
 ---
 
@@ -22,6 +22,6 @@ Our discussion will focus primarily on the first chapter of the book, which outl
 
 (YouTube Playlist) [Own the Day Video Series](https://www.youtube.com/watch?v=NzS2Nv2bYs0&list=PL8-lJ-g0Bdtqft5Bx2Wfm-XMT76t_kjkk), Aubrey Marcus YouTube channel
 
-(Book) [Own the Day, Own Your Life: Optimized Practices for Waking, Working, Learning, Eating, Training, Playing, Sleeping, and Sex.](https://www.amazon.com/Own-Day-Your-Life-Optimized/dp/0062684078), Aubrey Marcus
+(Video) [Own the Day Trailer](https://www.youtube.com/watch?v=e7FsCtrATdk), Aubrey Marcus YouTube channel
 
-(Video) [Own the Day, Own Your Life Book Summary](https://www.youtube.com/watch?v=gIRWbXpw6C0), Develop Good Habits YouTube channel
+(Book) [Own the Day, Own Your Life: Optimized Practices for Waking, Working, Learning, Eating, Training, Playing, Sleeping, and Sex.](https://www.amazon.com/Own-Day-Your-Life-Optimized/dp/0062684078), Aubrey Marcus

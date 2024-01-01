@@ -2,7 +2,7 @@
 layout: post
 post-type: blog
 categories: study-guides
-title: "Spiritual Art Exhibit (Study Guide)"
+title: "Fashionably Late (Study Guide)"
 author: kekoa-1
 ---
 

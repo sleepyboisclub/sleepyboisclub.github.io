@@ -24,6 +24,8 @@ Look for updates regarding this croak in the Sleepy Bois Club Discord server or 
 
 [Video] [How To Create Really Deep Bonds With People](https://www.youtube.com/watch?v=XoqPL0nczfY), Charisma on Command
 
+[Video] [How Consensus Democracy Works](https://www.youtube.com/watch?v=ZX0ajdSMv1U), Andrewism
+
 [Article] [How to Write a Club Charter](https://www.wikihow.com/Write-a-Club-Charter), WikiHow
 
 [Article] [Meeting Ground Rules](https://www.facilitator.school/meeting-ground-rules), Facilitator School

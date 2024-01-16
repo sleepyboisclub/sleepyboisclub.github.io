@@ -8,6 +8,3 @@ group :jekyll_plugins do
     gem "jekyll-paginate"
     gem 'jekyll-books'
   end
-group :jekyll_plugins do
-    gem 'jekyll-remote-include', :github => 'netrics/jekyll-remote-include'
-end

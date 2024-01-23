@@ -11,7 +11,7 @@ The SBC homepage.
 
 Learn about the SBC, officers, and contact.
 
-## [📜 Charter](/charter.md)
+## [📜 Charter](https://sleepyboisclub.gitbook.io/sbc-charter/)
 
 The latest version of the living charter.
 

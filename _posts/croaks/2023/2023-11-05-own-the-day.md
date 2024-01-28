@@ -6,7 +6,7 @@ categories: croaks
 author: kekoa-1
 ---
 
-<img src="https://drive.google.com/uc?export=view&id=1bDs442mTN4euNZwKkWjiUyqvZWcnkuYl" alt="Own the Day activity selfie" width="500"/>
+<img src="https://lh3.googleusercontent.com/pw/ABLVV87OqbF6TC3SWSW6KagChO84Rdg_juXeuXQiOMCfmCWTYORHYAnbrPFRN62q2mLYxBVsKtZlmPfaQy5P-PdlCge-XbiXPa338bGEUnuf32cpkEX5j2PGPN8Udtuh3OgRs1PEKRJQ0TLCO2b2v6L1Wo0=w2194-h1646-s-no-gm?authuser=0" alt="Own the Day activity selfie" width="500"/>
 
 ## The Activity
 

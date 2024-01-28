@@ -6,7 +6,7 @@ categories: croaks
 author: kekoa-1
 ---
 
-<img src="https://drive.google.com/uc?export=view&id=1nkyYvxoJzyeuwiM3ZB6pJXOnyGPLf0_I" alt="Own the Day activity selfie" width="500"/>
+<img src="https://lh3.googleusercontent.com/pw/ABLVV8419I8jhf_uFPr4yUrgcMVwZXvxA_x9Oac6R7d9OSudDxc952apEvotlRf7pX6xJRdadXC7qphcMUplNk8quwqUAACRP8WiwspDhfkChdgrd7Ifg5UkKSIpsgHCHElUO5l9-wXnlI1KXURVFQRNkO4=w2194-h1646-s-no-gm?authuser=0" alt="Own the Day activity selfie" width="500"/>
 
 On December 3rd, the sleepy bois gathered at Mount Timpanogos Park to participate in an ice bath. It was a snowy, rainy morning and, honestly, the vibes were on. The first snowstorm of the year rolled through the days before, leaving us with a cold and wet ice bath experience (which, even on an ideal day, will be the standard result of such an activity).
 

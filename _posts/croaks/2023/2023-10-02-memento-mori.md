@@ -6,7 +6,7 @@ categories: croaks
 author: dustin-1
 ---
 
-<img src="https://drive.google.com/uc?export=view&id=1ZBZDmpdt1THEbaQdwkfb7vOl2Qs81O4M" alt="Memento Mori activity selfie" width="500"/>
+<img src="https://lh3.googleusercontent.com/pw/ABLVV85WyPxjuZ05NTy1qukyvh3ZRsN27TXEjshfNjDaOyPXUCnY80ov3boKUcaDw6OhsauRpVxKPD8uWzuoJYwVC2UUgtcvuXJU8ltbeRljDInRsSTbxoFvXJKZxBHoWD5nVY2Wno7fDABCpGmFkUH1JVA=w2194-h1646-s-no-gm?authuser=0" alt="Memento Mori activity selfie" width="500"/>
 
 As the seasons began to change and the beautiful decay of autumn crept into the forests around us, the Sleepy Bois Club decided to gather and celebrate the onset of the spooky season the best way we knew how, by contemplating our eventual deaths. 
 

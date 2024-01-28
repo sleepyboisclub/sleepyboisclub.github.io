@@ -6,7 +6,7 @@ categories: croaks
 author: kekoa-1
 ---
 
-<img src="https://drive.google.com/uc?export=view&id=1-29CG_-_ZyItVshkMj65cq9of3o5Ck1R" alt="Movement Seminar Selfie" width="500"/>
+<img src="https://lh3.googleusercontent.com/pw/ABLVV85GgCmrNwFdOk9OTsAgpRP-R5KCdjSaGQVIsIxFSTIGIer8LM43hIKMZOLftYTr_2jEDGsmO7Nie91LZByoj_3bUHvMb8Edv3Ds41t73rLwUXb23r0wYut3pKgXHq3W4_iwILDRFzlJlLxKzoRnzaQ=w2048-h1536-s-no-gm?authuser=0" alt="Movement Seminar Selfie" width="500"/>
 
 At this evening’s meetup, Dan led a seminar on the basics of body movement.
 

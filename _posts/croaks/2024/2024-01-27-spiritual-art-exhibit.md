@@ -1,7 +1,7 @@
 ---
 layout: post
 post-type: blog
-categories: study-guides
+categories: croaks
 title: "Spiritual Art Exhibit"
 author: dustin-1
 ---

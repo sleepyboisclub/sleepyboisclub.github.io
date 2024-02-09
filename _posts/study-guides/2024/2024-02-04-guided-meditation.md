@@ -22,11 +22,11 @@ After the guided meditation, we will discuss our experience as a group, our pers
 
 ## Additional Materials 
 
-[Video] [No Mud No Lotus | Short Film with the Words of Thich Nhat Hanh](https://www.youtube.com/watch?v=stiG6IzDITc), Plum Village App
+[Video] [No Mud No Lotus: Short Film with the Words of Thich Nhat Hanh](https://www.youtube.com/watch?v=stiG6IzDITc), Plum Village App
 
 [Video] [Meditation Is Easier Than You Think](https://www.youtube.com/watch?v=thcEuMDWxoI), Yongey Mingyur Rinpoche
 
-[Video] [Compassion & Interbeing | Thich Nhat Hanh](https://www.youtube.com/watch?v=RK49gAd7N1M), Sofia Surreal
+[Video] [Compassion & Interbeing: Thich Nhat Hanh](https://www.youtube.com/watch?v=RK49gAd7N1M), Sofia Surreal
 
 
 ## Deep Dive
@@ -35,7 +35,7 @@ After the guided meditation, we will discuss our experience as a group, our pers
 
 [Video] [Mindfulness meditation: How it works and why it's so popular](https://www.youtube.com/watch?v=g7yFvd7_KVw), Global News
 
-[Video] [The True Purpose of Meditation | Dr. Sam Harris & Dr. Andrew Huberman](https://www.youtube.com/watch?v=up6NRP3cj4Y), Huberman Lab Clips
+[Video] [The True Purpose of Meditation: Dr. Sam Harris & Dr. Andrew Huberman](https://www.youtube.com/watch?v=up6NRP3cj4Y), Huberman Lab Clips
 
 [Book] [The Miracle of Mindfulness: An Introduction to the Practice of Meditation](https://www.amazon.com/Miracle-Mindfulness-Introduction-Practice-Meditation/dp/0807012394), Thich Nhat Hanh
 

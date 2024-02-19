@@ -3,6 +3,18 @@ layout: page
 title: About
 ---
 
+The Sleepy Bois Club was established as a digital third space to fight lonliness and meaningless through the exploration and practice of philosophy and kindness.
+
+As the club experiments in finding fulfillment through connecting with self and others, we share our experiences online for all to see, read, and practice in their own lives. We encourage all to engage in seeking meaning and connection, whether in our community or elsewhere!
+
+Read more about our mission in the living [club charter](https://sleepyboisclub.gitbook.io/sbc-charter/).
+
+## Contact
+
+Email us at [sleepyboisclub@gmail.com](mailto:sleepyboisclub@gmail.com)
+
+Find us around the web with [🌳 Linktree](https://linktr.ee/sleepyboisclub)
+
 ## Club Officers
 
 ### President
@@ -37,7 +49,7 @@ denmarkriot
 
 A non-profit nerd and community organizer, denmarkriot Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-## Mountain Goat
+### Mountain Goat
 
 <img src="https://img.craiyon.com/2024-02-19/tNsc6eE5QfKAH5WnJ5k6cw.webp" alt="Aadesh icon" width="100"/>
 

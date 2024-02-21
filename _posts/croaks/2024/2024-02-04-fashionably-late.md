@@ -14,7 +14,7 @@ Some quick stats for our ratification costume pizza party:
 
 - The ratification of the Charter passed with five yes croaks and four croaks to stand aside.
 - Of the 11 people in attendance, seven desired membership and all membership croaks were unanimous and successful. 
-- The Executive Committee Proposal passed unanimously, with Dustin as President, Kekoa as Vice President, Josh as Tech Ninja, Michaelann as Kekoa’s Fixer (aka the person the Club goes to when they need a job done), and Aadesh as Mountain Goat. 
+- The Executive Committee Proposal passed unanimously, with Dustin as President, Kekoa as Vice President, Josh as Tech Ninja, Michaelann as Kekoa’s Fixer (aka the person the Club goes to when they need a job done), and Aadesh as Mountain Goat (our in-house outdoor enthusiast). 
 
 Though we regret that some of our dear friends and regular attendees could not attend this inaugural event, the opportunity to join the SBC as a member is can be open to all who participate regularly in the community (in-person by invitation or online on our Discord or other digital platforms), according to the newly ratified Club Charter.
 

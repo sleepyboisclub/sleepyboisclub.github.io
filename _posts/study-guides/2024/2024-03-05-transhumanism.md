@@ -32,6 +32,6 @@ Come with an open mind, an attitude of curiosity, and appreciation for new ideas
 
 ## Deep Dive
 
-[Video] [Transhumanism: "The World's Most Dangerous Idea" | Philosophy Tube](https://www.youtube.com/watch?v=DqPd6MShV1o), Philosophy Tube YouTube Channel
+[Video] [Transhumanism: "The World's Most Dangerous Idea" - Philosophy Tube](https://www.youtube.com/watch?v=DqPd6MShV1o), Philosophy Tube YouTube Channel
 
 [Article] [The New God Argument](https://new-god-argument.com/), The New God Argument (Lincoln Cannon)

@@ -16,7 +16,7 @@ With friendly smiles, our small group sat  on yoga cushions and mats on the floo
 
 ## A Novel Meditation Practice
 
-The meditation we engaged in was Joseph’s own creation: a contemplation on the nature of trees. “_What can we learn from trees?” _is a series of questions about trees, asked in 30-second intervals for a total of 25 minutes. 
+The meditation we engaged in was Joseph’s own creation: a contemplation on the nature of trees. “_What can we learn from trees?”_ is a series of questions about trees, asked in 30-second intervals for a total of 25 minutes. 
 
 It may seem like a long time to think about trees… because it is (perhaps not for a botanist, but for all of us normies it definitely is). 
 

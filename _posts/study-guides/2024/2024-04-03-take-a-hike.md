@@ -2,7 +2,7 @@
 layout: post
 post-type: blog
 categories: study-guides
-title: "Transhumanism: How technology transforms humanity (Study Guide)"
+title: "Take a Hike (Study Guide)"
 author: kekoa-1
 ---
 

@@ -18,6 +18,8 @@ Come enjoy a lovely beginner-friendly hike with friends 😊
 
 [Video] [Trails and Hiking Highlights](https://www.nps.gov/subjects/trails/index.htm), National Park Service
 
+[Article] [The Ten Essentials of Hiking](https://americanhiking.org/resources/10essentials/), American Hiking Society
+
 ## Additional Materials 
 
 [Article] [Hiking for Beginners](https://www.rei.com/learn/expert-advice/hiking-for-beginners.html), REI
@@ -31,3 +33,5 @@ Come enjoy a lovely beginner-friendly hike with friends 😊
 [Article] [Leave No Trace Seven Principles](https://www.nps.gov/articles/leave-no-trace-seven-principles.htm), National Park Service
 
 [Article] [How to Train for Hiking](https://www.rei.com/learn/expert-advice/hiking-training.html), REI
+
+[Book] [Mountaineering: Freedom of the Hills](https://www.amazon.com/Mountaineering-Freedom-Hills-Mountaineers-ebook/dp/B076H9532R), The Mountaineers

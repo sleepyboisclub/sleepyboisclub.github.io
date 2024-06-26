@@ -2,13 +2,13 @@
 layout: post
 post-type: blog
 categories: croaks
-title: "Take a hike"
+title: "Take a Hike"
 author: kekoa-1
 ---
 
 While driving out for a snowy Sunday afternoon for a hike, I wondered what might be the limits of what I would do for the Sleepy Bois Club. The weather was not suited for a picturesque hike, and though we knew the risks of a Springtime hike in Utah, we had hoped for at worst a cool hike, not a snow storm warning… But I was still excited to croak with the bois!
 
-<img src="https://lh3.googleusercontent.com/pw/AP1GczNus-GVGNFfSZ2qQxpyRq6g51jF_LG6ETufrDbooJBSkq1ZjKFh8HNuyhSLC8qoAhMzfe1Q6Z860vBvjfV6Tccg3H-61L3M9v-mvz59-vxLCNI9EEhm9kmY8y7zHF8XMvakQa9mfwOLsh9PkfusK-v1VGolcRo8z3zmVN2jdH_oAObBaRQy1r0Ps1elyXgMKkmgT5h11UV8_iE67gwZrJWWPM_hjn9qP-2C47x7gJ2Nx2znywmaYXIC0fkEJjbvBu2jr6eDswdUDZ0JdyngEC9m9h9Xi1bNcnJ9WeIAfYL1mAzA0fYjJjrg4QeRhfQmK9P5BULK1Hdk0uGd6maO0RJi0JuQJRtEHZ4CId7KK3LcZBYxIM07VfUF72NDHMQozzZ40eLykaSJ_8KWyWUvjEArOGBntC0S9ptVmEOkIpuTICwfHIEPIejSbVN0rifApMkHQaLi49iuoDcMhxbyawNbDr0ysNRcULp-R-3U6rXf7cNRA8iSnrDWA0-1vdggkCHRIc6e1TwiMR5U4jx--wega9eFK-hV2XyBq-S8IaP5R_3vXcE6caYbcd06GuXzijc9-EX9WtbRY2lx_eUJO7bAqy99m0VX4yHWCrU9NK90RBqb219XxJBrp2Y1oP4LEIIzAuNVcGkO4hCm9NpguX_B2g5P_IrhfXjjK6i78bBcFkd_Ikv5jkM1Wfa18lYnKKteKGux9Sg3ZtbbDeZRwqgAl6PqKyZoge5ORtFBrQZzdV-AjWbpqhiguHA57hIsJBEyqW9R6p6SoPc86i2l3BdH8wYW-32zSQqUSPXOtx-hjwzaOlhgBuaLsIFnoLXH0ILprorqweVpiqH6xQcAch8Ip2rGZBhbpVR3eq1M68fXgVecHWpe2EfmgezVD1qiOGerXPooyPfZsnJtZ_LRxxyZHg=w2194-h1646-s-no-gm?authuser=0" alt="Hiking group at the trailhead" width="500"/>
+<img src="https://lh3.googleusercontent.com/pw/AP1GczOdLZ9UDGD_Y2fVvz3AyB-Bjqrj9l3fHqX7qu54YiSvQ394rtMeXKswCash0DtJdTNI26PV25xGRRJkggYoH0D6r15r9xJszWjtb9h-ssxC8XAZ6n44gQPUskkxeGZlSAYBkLAfmBSdNdpqUmZbvEKH=w1097-h823-s-no-gm?authuser=0" alt="Hiking group at the trailhead" width="500"/>
 
 Our small group of extreme (“beginner-friendly”) hike enthusiasts gathered at the snow-covered trailhead, where some of us questioned if the hike would still be on. It was, indeed, on. We dawned ourselves with our finest snow-appropriate hiking jackets (though most of us apparently packed tropical) and started our way on the trail towards Rocky Mouth Falls.
 

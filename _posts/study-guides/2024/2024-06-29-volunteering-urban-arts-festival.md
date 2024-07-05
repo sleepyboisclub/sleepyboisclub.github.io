@@ -15,6 +15,8 @@ For the purpose of practicing kind philosophy, we will be helping out at this fr
 
 ## Suggested Study Materials
 
+{% include youtube.html id="Htm5tgOrubg" %}
+
 [Video] [Where and how can I volunteer?](https://www.youtube.com/watch?v=Htm5tgOrubg), Career Central
 
 

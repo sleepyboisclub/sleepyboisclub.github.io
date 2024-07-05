@@ -15,6 +15,7 @@ We will head out into the Wasatch Front to find a beautiful wooded area where we
 
 ## Suggested Study Materials
 
+{% include youtube.html id="12CCjoixpkA" %}
 [Video] [The Art and Science of Forest Bathing with Dr Qing Li](https://www.youtube.com/watch?v=12CCjoixpkA), Penguin Books UK YouTube Channel
 
 

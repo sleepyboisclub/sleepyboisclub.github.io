@@ -22,7 +22,7 @@ Though many of us are familiar with the concepts of Buddhism through our own stu
 
 [Article] [About Two Arrows Zen](https://twoarrowszen.org/about/two-arrows-zen/), Two Arrows Zen
 
-[Video] [How To Apply Zen In Life | Alan Watts](https://youtu.be/8I3qywVeo7s?si=6aNc9gJQoPShsw1W), Philosophy 101 YouTube Channel 
+[Video] [How To Apply Zen In Life \| Alan Watts](https://youtu.be/8I3qywVeo7s?si=6aNc9gJQoPShsw1W), Philosophy 101 YouTube Channel 
 
 ## Deep Dive
 

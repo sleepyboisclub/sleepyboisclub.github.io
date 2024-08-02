@@ -3,7 +3,7 @@ layout: page
 title: Pages
 ---
 
-## [🏠 Home](../index.md)
+## [🏠 About](/about.md)
 
 The SBC homepage.
 
